@@ -1,22 +1,19 @@
-# Thadimoni
-Software Engineering graduate | Junior Frontend / Web Developer building responsive websites and practical web applications.
+Hi, I'm Olorunbukunmi Thaddeaus 👋
 
-Hi, I'm Olorunbukunmi Thaddeaus 
-
-# Junior Frontend / Web Developer
+Junior Frontend / Web Developer
 
 I'm a Software Engineering graduate interested in building responsive websites and practical web applications.
 
 I enjoy turning ideas into functional web experiences, learning new technologies and solving development problems through hands-on projects.
 
- Technologies & Tools
+🛠️ Technologies & Tools
 
 - Frontend: HTML5, CSS3, JavaScript
 - Backend: PHP, Python, Flask
 - Database: MySQL
 - Tools: Git, GitHub, Figma, Chrome DevTools
 
-  Featured Projects
+🚀 Featured Projects
 
 1. Nexora – Multi-tenant CBT SaaS Platform
 
@@ -36,14 +33,14 @@ A multi-page solar energy business website built with HTML, CSS, JavaScript and 
 
 "Live Website" (https://solarwizard-flask.onrender.com) · "View Repository" (https://github.com/Thadimoni/solarwizard-flask)
 
-  Currently Learning
+🌱 Currently Learning
 
 - Improving my JavaScript skills
 - Strengthening my PHP and Python knowledge
 - Building better backend applications
 - Improving software development practices
 
-  Let's Connect
+🤝 Let's Connect
 
 - "LinkedIn" (https://www.linkedin.com/in/olorunbukunmi-thaddeaus-150100299)
 - "GitHub" (https://github.com/Thadimoni)
