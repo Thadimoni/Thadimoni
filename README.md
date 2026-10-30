@@ -9,7 +9,7 @@ I'm a Software Engineering graduate interested in building responsive websites a
 
 I enjoy turning ideas into functional web experiences, learning new technologies and solving development problems through hands-on projects.
 
-🛠️ Technologies & Tools
+ Technologies & Tools
 
 - Frontend: HTML5, CSS3, JavaScript
 - Backend: PHP, Python, Flask
