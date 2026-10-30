@@ -1,7 +1,7 @@
 # Thadimoni
 Software Engineering graduate | Junior Frontend / Web Developer building responsive websites and practical web applications.
 
-Hi, I'm Olorunbukunmi Thaddeaus 👋
+Hi, I'm Olorunbukunmi Thaddeaus 
 
 # Junior Frontend / Web Developer
 
